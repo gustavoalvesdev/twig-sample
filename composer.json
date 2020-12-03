@@ -1,0 +1,16 @@
+{
+    "name": "gustavoalvesdev/twig-sample",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "gustavoalvesdev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {}
+    },
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
